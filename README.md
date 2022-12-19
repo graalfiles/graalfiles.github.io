@@ -1,25 +1,7 @@
-# Sidey
+# Graal Files
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Hi! I'm Zed. I created this page because I got nostalgic and wanted to revisit Graal. Unfortunately, the Graal of today is very scary. I wanted the old version. This website is a list of all the files I've managed to locate. This site only links to the files. No files are hosted here.
 
-### Features
+This page is created with [Jekyll](https://github.com/jekyll/jekyll), using the [Sidey theme](https://github.com/ronv/sidey).
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
-
-### Screenshot
-
-![Screenshot](screenshot.png)
+You are free to fork this site and make your own version.
