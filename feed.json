@@ -1,0 +1,625 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sidey",
+    "home_page_url": "http://192.168.20.33:4000/",
+    "feed_url": "http://192.168.20.33:4000/feed.json",
+    "description": "Simple and minimalistic jekyll blogging theme.",
+    "icon": "http://192.168.20.33:4000/apple-touch-icon.png",
+    "favicon": "http://192.168.20.33:4000/favicon.ico",
+    "expired": false,
+    
+    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    
+"items": [
+    
+        {
+            "id": "http://192.168.20.33:4000/2018/05/22/nekoroy-dead",
+            "title": "NekoRoy's Graal Site Closed",
+            "summary": "The best place for classic Graal files, information and resources.",
+            "content_text": "I chose to close this site because quite frankly Graal has been dead for a long time and nobody cares anymore.After nearly 20 years of myself and others running Graal resources, files and fan sites there is no excuse for people to not already have everything they need related to Graal and be able to share it with others themselves. There was and is no reason to keep this site open. If someone wants to run their own Graal site with graal stuff there is nothing stopping them from doing so. You can lead horses to water but you can’t make them drink. Give a man a fish you feed him for a day teach a man to fish you feed him for a lifetime. It’s time people drank their own water and caught their own fish.There were many good people and good things related to Graal, after all it was merely a multi player online Zelda style game with player made content “what could go wrong?” Most of the original 1st and 2nd gen Graal people like Clops, Zeek Silverfire, Zol, Cobra 5.0, Kyle0654, Sir Pickles, ShockedFrog, Mr. Hack and dozens of others were good people who were cool to hang out with and made good things.Graal could’ve been a decent game 20 years ago had it not been for the stupid cancerous people who are mentally ill, perverts, violent deranged psychopaths, ugly people, liars, thieves and scammers who are failures “I think most who read this know who I’m referring to” and a small French guy only thinking of ways to exploit and abuse it’s player base for a few more euros and bread loaves.Then you had the those who ruined the game; the people that flooded the game with unaesthetic garbage that was literally made in 10 seconds in MSPaint and copy paste flooded in level editor.Such bad content and people would’ve never made it online except for the fact they really sucked up to the French guy and that Graal also had a serious lack of content and copyright problems they wanted to replace with anything else no matter how bad it might’ve been.They accepted crap from mentally ill low IQ low talent people. Everyone of the time observed the transformation between 2000 and 2004 that happened to GraalOnline “Graal Classic” What people saw was a mix of some decent people making some decent things with garbage made from a low talent people with a bad egos who felt entitled and like they owned Graal. That story has repeated itself in what’s left of GraalOnline until today.Another example of that is the New World project that had a whole new original world, original graphics, music, content, everything was new and it seemed pretty great, however it was entirely scrapped and slapped in to Graal Kingdoms and Graal2001 which were both worse and awful parts of Graal that are undisputedly the least popular and most hated Playerworlds and content in GraalOnline.Take a look in the Graal New World betas then take a look at Graal Kingdoms or Graal2001 to see firsthand how Stephane and other bad people don’t care about quality, but rather ripping off content and turning the works of good people like Kyle0654 and the rest of the New World team into trash. This has also been done to Unholy Nations, Era, X Online and pretty much every other Playerworld, Graal developer and all of PC Graal. This is why Graal is dead.This site was not deleted because of Stephane’s false and fraudulent DMCA complaints; I successfully refuted them and sent in an official DMCA Counter Notice. Rather I myself deleted everything because of the reason I gave in the first paragraph of this page. Graal is best left to be forgotten and what’s left of it to slowly die off and in 5 or 10 years Stephane will run out of money to pay for his 110 euro a night Mauritius hotel and he will either be extradited to the United States or Europe to face charges for Cyber Crimes, Tax Evasion and Fraud in France, U.S.A., E.U. and INTERPOL or the Mauritius “Guvna” will deal with him appropriately after he fails to pay his debts.",
+            "content_html": "<p>I chose to close this site because quite frankly Graal has been dead for a long time and nobody cares anymore.</p><p>After nearly 20 years of myself and others running Graal resources, files and fan sites there is no excuse for people to not already have everything they need related to Graal and be able to share it with others themselves. There was and is no reason to keep this site open. If someone wants to run their own Graal site with graal stuff there is nothing stopping them from doing so. You can lead horses to water but you can’t make them drink. Give a man a fish you feed him for a day teach a man to fish you feed him for a lifetime. It’s time people drank their own water and caught their own fish.</p><p>There were many good people and good things related to Graal, after all it was merely a multi player online Zelda style game with player made content “what could go wrong?” Most of the original 1st and 2nd gen Graal people like Clops, Zeek Silverfire, Zol, Cobra 5.0, Kyle0654, Sir Pickles, ShockedFrog, Mr. Hack and dozens of others were good people who were cool to hang out with and made good things.</p><p>Graal could’ve been a decent game 20 years ago had it not been for the stupid cancerous people who are mentally ill, perverts, violent deranged psychopaths, ugly people, liars, thieves and scammers who are failures “I think most who read this know who I’m referring to” and a small French guy only thinking of ways to exploit and abuse it’s player base for a few more euros and bread loaves.</p><p>Then you had the those who ruined the game; the people that flooded the game with unaesthetic garbage that was literally made in 10 seconds in MSPaint and copy paste flooded in level editor.</p><p>Such bad content and people would’ve never made it online except for the fact they really sucked up to the French guy and that Graal also had a serious lack of content and copyright problems they wanted to replace with anything else no matter how bad it might’ve been.</p><p>They accepted crap from mentally ill low IQ low talent people. Everyone of the time observed the transformation between 2000 and 2004 that happened to GraalOnline “Graal Classic” What people saw was a mix of some decent people making some decent things with garbage made from a low talent people with a bad egos who felt entitled and like they owned Graal. That story has repeated itself in what’s left of GraalOnline until today.</p><p>Another example of that is the New World project that had a whole new original world, original graphics, music, content, everything was new and it seemed pretty great, however it was entirely scrapped and slapped in to Graal Kingdoms and Graal2001 which were both worse and awful parts of Graal that are undisputedly the least popular and most hated Playerworlds and content in GraalOnline.</p><p>Take a look in the Graal New World betas then take a look at Graal Kingdoms or Graal2001 to see firsthand how Stephane and other bad people don’t care about quality, but rather ripping off content and turning the works of good people like Kyle0654 and the rest of the New World team into trash. This has also been done to Unholy Nations, Era, X Online and pretty much every other Playerworld, Graal developer and all of PC Graal. This is why Graal is dead.</p><p>This site was not deleted because of Stephane’s false and fraudulent DMCA complaints; I successfully refuted them and sent in an official DMCA Counter Notice. Rather I myself deleted everything because of the reason I gave in the first paragraph of this page. Graal is best left to be forgotten and what’s left of it to slowly die off and in 5 or 10 years Stephane will run out of money to pay for his 110 euro a night Mauritius hotel and he will either be extradited to the United States or Europe to face charges for Cyber Crimes, Tax Evasion and Fraud in France, U.S.A., E.U. and INTERPOL or the Mauritius “Guvna” will deal with him appropriately after he fails to pay his debts.</p>",
+            "url": "http://192.168.20.33:4000/2018/05/22/nekoroy-dead",
+            
+            
+            
+            
+            
+            "date_published": "2018-05-22T00:00:00+10:00",
+            "date_modified": "2018-05-22T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2011/07/24/thedgtl-gs2emu-gserver-d3ecab4",
+            "title": "Thedgtl Gs2emu Gserver D3ecab4",
+            "summary": null,
+            "content_text": "Depends on:  libbz2-dev  zlib1g-dev  libmysqlclient-devThe Graal client will manually assemble the listserver host string.To find an instance where the client is trying to manually assemble a string, search for:\tmov bl,670x67 is the hex code for the ASCII letter g.If you are trying to replace, for example, listserver.graalonline.com with your ownlistserver hostname, keep in mind that your host name MUST fit within the boundariesof the existing host name.  If your host name is shorter, just pad the end with 0’s.– RC1 –———Start of listserver.graalonline.com:0049449B– RC2 –———listserver.graalonline.com is a referenced string.",
+            "content_html": "<p>Depends on:  libbz2-dev  zlib1g-dev  libmysqlclient-dev</p><p>The Graal client will manually assemble the listserver host string.To find an instance where the client is trying to manually assemble a string, search for:\tmov bl,67</p><p>0x67 is the hex code for the ASCII letter g.</p><p>If you are trying to replace, for example, listserver.graalonline.com with your ownlistserver hostname, keep in mind that your host name MUST fit within the boundariesof the existing host name.  If your host name is shorter, just pad the end with 0’s.</p><hr /><p>– RC1 –———Start of listserver.graalonline.com:0049449B</p><hr /><p>– RC2 –———listserver.graalonline.com is a referenced string.</p>",
+            "url": "http://192.168.20.33:4000/2011/07/24/thedgtl-gs2emu-gserver-d3ecab4",
+            
+            
+            
+            
+            
+            "date_published": "2011-07-24T00:00:00+10:00",
+            "date_modified": "2011-07-24T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2011/02/07/gserver-2-4-0",
+            "title": "Graal Reborn Gserver 2.4.0",
+            "summary": null,
+            "content_text": "Graal Reborn GServerCreated by: Joey, Nalin.Based off the original work by 39ster.For their additional work on the old gserver, special thanks go to:\tAgret, Beholder, Joey, Marlon, Nalin, and Pac.| Quick Start Instructions |—————————-How-to setup a server:1) Under the accounts folder, rename the text file ‘YOURACCOUNT.txt’ to your account name.  For example: ‘KuJi.txt’2) Modify defaultaccount.txt to your liking.  This is the default settings new players will start with.  It can also be modified via RC.3) Open config/serveroptions.txt and edit it to your liking.  Be sure to modify the settings under “Private server options”.  Help for what these options do are available on the forums and in the file itself.4) Find the line that starts with “staff=” in config/serveroptions.txt.  Replace YOURACCOUNT with your account name.  Anybody who needs RC access must be added to this line with their account names separated by commas.  Additionally, RC users must have their IP range changed to at least ... in their account to connect.5) Port forward if needed. (Many threads on this topic exist in the forums.  If you are having trouble, seek them out.  Try the tutorials forum.)  Basically, if you are behind a router and your computer isn’t set to be the “DMZ”, you will need to port forward.6) Run gserver2.exe – enjoy.7) Report any bugs on http://www.graal.in/| servers.txt |—————The gserver can run multiple servers at once without needing to spawn separate processes.  This is accomplished by the servers.txt file.  This file will tell the gserver how many servers to run and where they are located, as well as some optional ip and port overrides.The file looks like this:    servercount = 1    server_1 = default    server_1_ip = myserver.com    server_1_port = 12345    server_1_localip = 127.0.0.1    server_1_interface = 192.168.2.1servercount specifies the number of servers.  In the default file, that is 1 server.server_# specifies the directory the server is under.server_#ip specifies an optional ip address override.server#port specifies an optional port override.server#localip specifies an optional localip override.server#_interface specifies an optional interface override.All of the optional overrides will take precedence over the options defined in serveroptions.txt.| Special Graal Reborn NPC commands |————————————-The Graal Reborn gserver has a couple special NPC commands built in.join somefile;    Much like official Graal’s server-side join command, this command searches for somefile.txt and appends the contents to the end of the NPC script.singleplayer    This command is like the sparringzone command.  When placed by itself with no semi-colon inside an NPC, it signifies that the level is “singleplayer.”  (SEE: Singleplayer Levels).| Singleplayer Levels |———————–The Graal Reborn gserver has the ability to toggle a level as “singleplayer.”  In this mode, the user cannot see any other player in the level.  Any changes they make to the level are not replicated to other users.  They are, in essence, in a level by themselves.To activate singleplayer mode, add an NPC to the level and add the single command “singleplayer” to the level, much like how the “sparringzone” command works.| Group Maps |—————-Like singleplayer levels, group maps allow only players in a group to see each other in a level.  Player groups can be managed via the gr.setgroup and gr.setlevelgroup triggeractions (SEE: Graal Reborn special triggeractions).Individual levels cannot be set as group levels; instead, an entire map must be specified as a group map.  The “groupmaps” server option specifies a comma-delimited list of maps that can contain groups.| Graal Reborn special client flags |————————————-There are a few special client flags built into the gserver.  These are:gr.xgr.ygr.zThese flags are used by the -gr_movement weapon included in the server weapons folder to simulate the smooth movement as found in the Graal clients 2.3 and up.If you don’t want the gserver to recognize these flags, set the flaghack_movement setting to false in serveroptions.txt.Also, if flaghack_ip is enabled in the serveroptions.txt file, you can gain access to the following:gr.ip| Graal Reborn special triggeractions |—————————————The Graal Reborn gserver has a couple unique triggeractions built into it.  They can be enabled/disabled by altering the setting that controls their group in serveroptions.txt.  They are as follows:Controlled by the setting triggerhack_weapons:    triggeraction 0,0,gr.addweapon,weapon1,weapon2,weapon3;        Adds weapon1, weapon2, and weapon3 to the player’s account.triggeraction 0,0,gr.deleteweapon,weapon1,weapon2,weapon3;    Removes weapon1, weapon2, and weapon3 from the player's account.Controlled by the setting triggerhack_guilds:    triggeraction 0,0,gr.addguildmember,guild,account,nickname;        Adds a player to the specified guild.  Nickname is optional.triggeraction 0,0,gr.removeguildmember,guild,account;    Removes a player from the specified guild.triggeraction 0,0,gr.removeguild,guild;    Removes the guild from the server.triggeraction 0,0,gr.setguild,guild,account;    Sets the player's guild tag to the specified guild.Controlled by the setting triggerhack_groups:    triggeraction 0,0,gr.setgroup,group;        Adds the player to the specified group.triggeraction 0,0,gr.setlevelgroup,group;    Adds all the players in the level to the specified group.triggeraction 0,0,gr.setplayergroup,account,group;    Adds the specified player to the specified group.Controlled by the setting triggerhack_files:    triggeraction 0,0,gr.appendfile,filename,text;        Opens the file specified, located in the server’s logs directory, and appends a line of text.triggeraction 0,0,gr.writefile,filename,text;    Opens the file specified, located in the server's logs directory, erases all of its contents, and writes a line of text.Controlled by the setting triggerhack_rc:    triggeraction 0,0,gr.rcchat,Some chat text;        Sends some chat text to any logged in RC’s.Controlled by the setting triggerhack_execscript:    triggeraction 0,0,gr.es_clear;        Clears the execscript parameter list.triggeraction 0,0,gr.es_set,param1,param2,...;    Sets the execscript parameter list.triggeraction 0,0,gr.es_append,phrase;    Appends phrase directly to the end of the set parameter list.triggeraction 0,0,gr.es,account,script_name;    Sends the execscript to the specified account, or everybody if ALLPLAYERS was specified.    View the execscript/readme.txt file for more information.Controlled by the setting triggerhack_props:    triggeraction 0,0,gr.attr1,data;        Sets data on the specified attribute.  gr.attr1 - gr.attr30 work.Controlled by the setting triggerhack_levels:    triggeraction 0,0,gr.updatelevel;        Updates the current level.triggeraction 0,0,gr.updatelevel,levelname;    Updates the specified level.| Weapon bytecode |——————-Place weapon bytecode in the weapon_bytecode/ folder.  Inside each weapon file in weapons/, add the following:BYTECODE name_of_fileThe gserver will load weapon_bytecode/name_of_file and use the bytecode contained there-in.",
+            "content_html": "<p>Graal Reborn GServerCreated by: Joey, Nalin.Based off the original work by 39ster.For their additional work on the old gserver, special thanks go to:\tAgret, Beholder, Joey, Marlon, Nalin, and Pac.</p><hr /><p>| Quick Start Instructions |—————————-</p><p>How-to setup a server:</p><p>1) Under the accounts folder, rename the text file ‘YOURACCOUNT.txt’ to your account name.  For example: ‘KuJi.txt’2) Modify defaultaccount.txt to your liking.  This is the default settings new players will start with.  It can also be modified via RC.3) Open config/serveroptions.txt and edit it to your liking.  Be sure to modify the settings under “Private server options”.  Help for what these options do are available on the forums and in the file itself.4) Find the line that starts with “staff=” in config/serveroptions.txt.  Replace YOURACCOUNT with your account name.  Anybody who needs RC access must be added to this line with their account names separated by commas.  Additionally, RC users must have their IP range changed to at least <em>.</em>.<em>.</em> in their account to connect.5) Port forward if needed. (Many threads on this topic exist in the forums.  If you are having trouble, seek them out.  Try the tutorials forum.)  Basically, if you are behind a router and your computer isn’t set to be the “DMZ”, you will need to port forward.6) Run gserver2.exe – enjoy.7) Report any bugs on http://www.graal.in/</p><hr /><p>| servers.txt |—————</p><p>The gserver can run multiple servers at once without needing to spawn separate processes.  This is accomplished by the servers.txt file.  This file will tell the gserver how many servers to run and where they are located, as well as some optional ip and port overrides.</p><p>The file looks like this:    servercount = 1    server_1 = default    server_1_ip = myserver.com    server_1_port = 12345    server_1_localip = 127.0.0.1    server_1_interface = 192.168.2.1</p><p>servercount specifies the number of servers.  In the default file, that is 1 server.server_# specifies the directory the server is under.server_#<em>ip specifies an optional ip address override.server</em>#<em>port specifies an optional port override.server</em>#<em>localip specifies an optional localip override.server</em>#_interface specifies an optional interface override.</p><p>All of the optional overrides will take precedence over the options defined in serveroptions.txt.</p><hr /><p>| Special Graal Reborn NPC commands |————————————-</p><p>The Graal Reborn gserver has a couple special NPC commands built in.</p><p>join somefile;    Much like official Graal’s server-side join command, this command searches for somefile.txt and appends the contents to the end of the NPC script.</p><p>singleplayer    This command is like the sparringzone command.  When placed by itself with no semi-colon inside an NPC, it signifies that the level is “singleplayer.”  (SEE: Singleplayer Levels).</p><hr /><p>| Singleplayer Levels |———————–</p><p>The Graal Reborn gserver has the ability to toggle a level as “singleplayer.”  In this mode, the user cannot see any other player in the level.  Any changes they make to the level are not replicated to other users.  They are, in essence, in a level by themselves.</p><p>To activate singleplayer mode, add an NPC to the level and add the single command “singleplayer” to the level, much like how the “sparringzone” command works.</p><hr /><p>| Group Maps |—————-</p><p>Like singleplayer levels, group maps allow only players in a group to see each other in a level.  Player groups can be managed via the gr.setgroup and gr.setlevelgroup triggeractions (SEE: Graal Reborn special triggeractions).</p><p>Individual levels cannot be set as group levels; instead, an entire map must be specified as a group map.  The “groupmaps” server option specifies a comma-delimited list of maps that can contain groups.</p><hr /><p>| Graal Reborn special client flags |————————————-</p><p>There are a few special client flags built into the gserver.  These are:gr.xgr.ygr.z</p><p>These flags are used by the -gr_movement weapon included in the server weapons folder to simulate the smooth movement as found in the Graal clients 2.3 and up.</p><p>If you don’t want the gserver to recognize these flags, set the flaghack_movement setting to false in serveroptions.txt.</p><p>Also, if flaghack_ip is enabled in the serveroptions.txt file, you can gain access to the following:gr.ip</p><hr /><p>| Graal Reborn special triggeractions |—————————————</p><p>The Graal Reborn gserver has a couple unique triggeractions built into it.  They can be enabled/disabled by altering the setting that controls their group in serveroptions.txt.  They are as follows:</p><p>Controlled by the setting triggerhack_weapons:    triggeraction 0,0,gr.addweapon,weapon1,weapon2,weapon3;        Adds weapon1, weapon2, and weapon3 to the player’s account.</p><pre><code>triggeraction 0,0,gr.deleteweapon,weapon1,weapon2,weapon3;    Removes weapon1, weapon2, and weapon3 from the player's account.</code></pre><p>Controlled by the setting triggerhack_guilds:    triggeraction 0,0,gr.addguildmember,guild,account,nickname;        Adds a player to the specified guild.  Nickname is optional.</p><pre><code>triggeraction 0,0,gr.removeguildmember,guild,account;    Removes a player from the specified guild.triggeraction 0,0,gr.removeguild,guild;    Removes the guild from the server.triggeraction 0,0,gr.setguild,guild,account;    Sets the player's guild tag to the specified guild.</code></pre><p>Controlled by the setting triggerhack_groups:    triggeraction 0,0,gr.setgroup,group;        Adds the player to the specified group.</p><pre><code>triggeraction 0,0,gr.setlevelgroup,group;    Adds all the players in the level to the specified group.triggeraction 0,0,gr.setplayergroup,account,group;    Adds the specified player to the specified group.</code></pre><p>Controlled by the setting triggerhack_files:    triggeraction 0,0,gr.appendfile,filename,text;        Opens the file specified, located in the server’s logs directory, and appends a line of text.</p><pre><code>triggeraction 0,0,gr.writefile,filename,text;    Opens the file specified, located in the server's logs directory, erases all of its contents, and writes a line of text.</code></pre><p>Controlled by the setting triggerhack_rc:    triggeraction 0,0,gr.rcchat,Some chat text;        Sends some chat text to any logged in RC’s.</p><p>Controlled by the setting triggerhack_execscript:    triggeraction 0,0,gr.es_clear;        Clears the execscript parameter list.</p><pre><code>triggeraction 0,0,gr.es_set,param1,param2,...;    Sets the execscript parameter list.triggeraction 0,0,gr.es_append,phrase;    Appends phrase directly to the end of the set parameter list.triggeraction 0,0,gr.es,account,script_name;    Sends the execscript to the specified account, or everybody if ALLPLAYERS was specified.    View the execscript/readme.txt file for more information.</code></pre><p>Controlled by the setting triggerhack_props:    triggeraction 0,0,gr.attr1,data;        Sets data on the specified attribute.  gr.attr1 - gr.attr30 work.</p><p>Controlled by the setting triggerhack_levels:    triggeraction 0,0,gr.updatelevel;        Updates the current level.</p><pre><code>triggeraction 0,0,gr.updatelevel,levelname;    Updates the specified level.</code></pre><hr /><p>| Weapon bytecode |——————-Place weapon bytecode in the weapon_bytecode/ folder.  Inside each weapon file in weapons/, add the following:BYTECODE name_of_file</p><p>The gserver will load weapon_bytecode/name_of_file and use the bytecode contained there-in.</p>",
+            "url": "http://192.168.20.33:4000/2011/02/07/gserver-2-4-0",
+            
+            
+            
+            
+            
+            "date_published": "2011-02-07T00:00:00+11:00",
+            "date_modified": "2011-02-07T00:00:00+11:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2010/08/20/gserver-2-3-1",
+            "title": "Graal Reborn Gserver 2.3.1",
+            "summary": null,
+            "content_text": "Graal Reborn GServerCreated by: Joey, Nalin.Based off the original work by 39ster.For their additional work on the old gserver, special thanks go to:\tAgret, Beholder, Joey, Marlon, Nalin, and Pac.| Quick Start Instructions |—————————-How-to setup a server:1) Under the accounts folder, rename the text file ‘YOURACCOUNT.txt’ to your account name.  For example: ‘KuJi.txt’2) Modify defaultaccount.txt to your liking.  This is the default settings new players will start with.  It can also be modified via RC.3) Open config/serveroptions.txt and edit it to your liking.  Be sure to modify the settings under “Private server options”.  Help for what these options do are available on the forums and in the file itself.4) Find the line that starts with “staff=” in config/serveroptions.txt.  Replace YOURACCOUNT with your account name.  Anybody who needs RC access must be added to this line with their account names separated by commas.  Additionally, RC users must have their IP range changed to at least ... in their account to connect.5) Port forward if needed. (Many threads on this topic exist in the forums.  If you are having trouble, seek them out.  Try the tutorials forum.)  Basically, if you are behind a router and your computer isn’t set to be the “DMZ”, you will need to port forward.6) Run gserver2.exe – enjoy.7) Report any bugs on http://www.graal.in/| servers.txt |—————The gserver can run multiple servers at once without needing to spawn separate processes.  This is accomplished by the servers.txt file.  This file will tell the gserver how many servers to run and where they are located, as well as some optional ip and port overrides.The file looks like this:    servercount = 1    server_1 = default    server_1_ip = myserver.com    server_1_port = 12345    server_1_localip = 127.0.0.1servercount specifies the number of servers.  In the default file, that is 1 server.server_# specifies the directory the server is under.server_#ip specifies an optional ip address override.server#port specifies an optional port override.server#_localip specifies an optional localip override.All of the optional overrides will take precedence over the options defined in serveroptions.txt.| Special Graal Reborn NPC commands |————————————-The Graal Reborn gserver has a couple special NPC commands built in.join somefile;    Much like official Graal’s server-side join command, this command searches for somefile.txt and appends the contents to the end of the NPC script.singleplayer    This command is like the sparringzone command.  When placed by itself with no semi-colon inside an NPC, it signifies that the level is “singleplayer.”  (SEE: Singleplayer Levels).| Singleplayer Levels |———————–The Graal Reborn gserver has the ability to toggle a level as “singleplayer.”  In this mode, the user cannot see any other player in the level.  Any changes they make to the level are not replicated to other users.  They are, in essence, in a level by themselves.To activate singleplayer mode, add an NPC to the level and add the single command “singleplayer” to the level, much like how the “sparringzone” command works.| Group Maps |—————-Like singleplayer levels, group maps allow only players in a group to see each other in a level.  Player groups can be managed via the gr.setgroup and gr.setlevelgroup triggeractions (SEE: Graal Reborn special triggeractions).Individual levels cannot be set as group levels; instead, an entire map must be specified as a group map.  The “groupmaps” server option specifies a comma-delimited list of maps that can contain groups.| Graal Reborn special client flags |————————————-There are a few special client flags built into the gserver.  These are:gr.xgr.ygr.zThese flags are used by the -gr_movement weapon included in the server weapons folder to simulate the smooth movement as found in the Graal clients 2.3 and up.If you don’t want the gserver to recognize these flags, set the flaghack_movement setting to false in serveroptions.txt.| Graal Reborn special triggeractions |—————————————The Graal Reborn gserver has a couple unique triggeractions built into it.  They can be enabled/disabled by altering the setting that controls their group in serveroptions.txt.  They are as follows:Controlled by the setting triggerhack_weapons:    triggeraction 0,0,gr.addweapon,weapon1,weapon2,weapon3;        Adds weapon1, weapon2, and weapon3 to the player’s account.triggeraction 0,0,gr.deleteweapon,weapon1,weapon2,weapon3;    Removes weapon1, weapon2, and weapon3 from the player's account.Controlled by the setting triggerhack_guilds:    triggeraction 0,0,gr.addguildmember,guild,account,nickname;        Adds a player to the specified guild.  Nickname is optional.triggeraction 0,0,gr.removeguildmember,guild,account;    Removes a player from the specified guild.triggeraction 0,0,gr.removeguild,guild;    Removes the guild from the server.triggeraction 0,0,gr.setguild,guild,account;    Sets the player's guild tag to the specified guild.Controlled by the setting triggerhack_groups:    triggeraction 0,0,gr.setgroup,group;        Adds the player to the specified group.triggeraction 0,0,gr.setlevelgroup,group;    Adds all the players in the level to the specified group.triggeraction 0,0,gr.setplayergroup,account,group;    Adds the specified player to the specified group.Controlled by the setting triggerhack_files:    triggeraction 0,0,gr.appendfile,filename,text;        Opens the file specified, located in the server’s logs directory, and appends a line of text.triggeraction 0,0,gr.writefile,filename,text;    Opens the file specified, located in the server's logs directory, erases all of its contents, and writes a line of text.Controlled by the setting triggerhack_rc:    triggeraction 0,0,gr.rcchat,Some chat text;        Sends some chat text to any logged in RC’s.Controlled by the setting triggerhack_execscript:    triggeraction 0,0,gr.es_clear;        Clears the execscript parameter list.triggeraction 0,0,gr.es_set,param1,param2,...;    Sets the execscript parameter list.triggeraction 0,0,gr.es_append,phrase;    Appends phrase directly to the end of the set parameter list.triggeraction 0,0,gr.es,account,script_name;    Sends the execscript to the specified account, or everybody if ALLPLAYERS was specified.    View the execscript/readme.txt file for more information.Controlled by the setting triggerhack_props:    triggeraction 0,0,gr.attr1,data;        Sets data on the specified attribute.  gr.attr1 - gr.attr30 work.Controlled by the setting triggerhack_levels:    triggeraction 0,0,gr.updatelevel;        Updates the current level.triggeraction 0,0,gr.updatelevel,levelname;    Updates the specified level.",
+            "content_html": "<p>Graal Reborn GServerCreated by: Joey, Nalin.Based off the original work by 39ster.For their additional work on the old gserver, special thanks go to:\tAgret, Beholder, Joey, Marlon, Nalin, and Pac.</p><hr /><p>| Quick Start Instructions |—————————-</p><p>How-to setup a server:</p><p>1) Under the accounts folder, rename the text file ‘YOURACCOUNT.txt’ to your account name.  For example: ‘KuJi.txt’2) Modify defaultaccount.txt to your liking.  This is the default settings new players will start with.  It can also be modified via RC.3) Open config/serveroptions.txt and edit it to your liking.  Be sure to modify the settings under “Private server options”.  Help for what these options do are available on the forums and in the file itself.4) Find the line that starts with “staff=” in config/serveroptions.txt.  Replace YOURACCOUNT with your account name.  Anybody who needs RC access must be added to this line with their account names separated by commas.  Additionally, RC users must have their IP range changed to at least <em>.</em>.<em>.</em> in their account to connect.5) Port forward if needed. (Many threads on this topic exist in the forums.  If you are having trouble, seek them out.  Try the tutorials forum.)  Basically, if you are behind a router and your computer isn’t set to be the “DMZ”, you will need to port forward.6) Run gserver2.exe – enjoy.7) Report any bugs on http://www.graal.in/</p><hr /><p>| servers.txt |—————</p><p>The gserver can run multiple servers at once without needing to spawn separate processes.  This is accomplished by the servers.txt file.  This file will tell the gserver how many servers to run and where they are located, as well as some optional ip and port overrides.</p><p>The file looks like this:    servercount = 1    server_1 = default    server_1_ip = myserver.com    server_1_port = 12345    server_1_localip = 127.0.0.1</p><p>servercount specifies the number of servers.  In the default file, that is 1 server.server_# specifies the directory the server is under.server_#<em>ip specifies an optional ip address override.server</em>#<em>port specifies an optional port override.server</em>#_localip specifies an optional localip override.</p><p>All of the optional overrides will take precedence over the options defined in serveroptions.txt.</p><hr /><p>| Special Graal Reborn NPC commands |————————————-</p><p>The Graal Reborn gserver has a couple special NPC commands built in.</p><p>join somefile;    Much like official Graal’s server-side join command, this command searches for somefile.txt and appends the contents to the end of the NPC script.</p><p>singleplayer    This command is like the sparringzone command.  When placed by itself with no semi-colon inside an NPC, it signifies that the level is “singleplayer.”  (SEE: Singleplayer Levels).</p><hr /><p>| Singleplayer Levels |———————–</p><p>The Graal Reborn gserver has the ability to toggle a level as “singleplayer.”  In this mode, the user cannot see any other player in the level.  Any changes they make to the level are not replicated to other users.  They are, in essence, in a level by themselves.</p><p>To activate singleplayer mode, add an NPC to the level and add the single command “singleplayer” to the level, much like how the “sparringzone” command works.</p><hr /><p>| Group Maps |—————-</p><p>Like singleplayer levels, group maps allow only players in a group to see each other in a level.  Player groups can be managed via the gr.setgroup and gr.setlevelgroup triggeractions (SEE: Graal Reborn special triggeractions).</p><p>Individual levels cannot be set as group levels; instead, an entire map must be specified as a group map.  The “groupmaps” server option specifies a comma-delimited list of maps that can contain groups.</p><hr /><p>| Graal Reborn special client flags |————————————-</p><p>There are a few special client flags built into the gserver.  These are:gr.xgr.ygr.z</p><p>These flags are used by the -gr_movement weapon included in the server weapons folder to simulate the smooth movement as found in the Graal clients 2.3 and up.</p><p>If you don’t want the gserver to recognize these flags, set the flaghack_movement setting to false in serveroptions.txt.</p><hr /><p>| Graal Reborn special triggeractions |—————————————</p><p>The Graal Reborn gserver has a couple unique triggeractions built into it.  They can be enabled/disabled by altering the setting that controls their group in serveroptions.txt.  They are as follows:</p><p>Controlled by the setting triggerhack_weapons:    triggeraction 0,0,gr.addweapon,weapon1,weapon2,weapon3;        Adds weapon1, weapon2, and weapon3 to the player’s account.</p><pre><code>triggeraction 0,0,gr.deleteweapon,weapon1,weapon2,weapon3;    Removes weapon1, weapon2, and weapon3 from the player's account.</code></pre><p>Controlled by the setting triggerhack_guilds:    triggeraction 0,0,gr.addguildmember,guild,account,nickname;        Adds a player to the specified guild.  Nickname is optional.</p><pre><code>triggeraction 0,0,gr.removeguildmember,guild,account;    Removes a player from the specified guild.triggeraction 0,0,gr.removeguild,guild;    Removes the guild from the server.triggeraction 0,0,gr.setguild,guild,account;    Sets the player's guild tag to the specified guild.</code></pre><p>Controlled by the setting triggerhack_groups:    triggeraction 0,0,gr.setgroup,group;        Adds the player to the specified group.</p><pre><code>triggeraction 0,0,gr.setlevelgroup,group;    Adds all the players in the level to the specified group.triggeraction 0,0,gr.setplayergroup,account,group;    Adds the specified player to the specified group.</code></pre><p>Controlled by the setting triggerhack_files:    triggeraction 0,0,gr.appendfile,filename,text;        Opens the file specified, located in the server’s logs directory, and appends a line of text.</p><pre><code>triggeraction 0,0,gr.writefile,filename,text;    Opens the file specified, located in the server's logs directory, erases all of its contents, and writes a line of text.</code></pre><p>Controlled by the setting triggerhack_rc:    triggeraction 0,0,gr.rcchat,Some chat text;        Sends some chat text to any logged in RC’s.</p><p>Controlled by the setting triggerhack_execscript:    triggeraction 0,0,gr.es_clear;        Clears the execscript parameter list.</p><pre><code>triggeraction 0,0,gr.es_set,param1,param2,...;    Sets the execscript parameter list.triggeraction 0,0,gr.es_append,phrase;    Appends phrase directly to the end of the set parameter list.triggeraction 0,0,gr.es,account,script_name;    Sends the execscript to the specified account, or everybody if ALLPLAYERS was specified.    View the execscript/readme.txt file for more information.</code></pre><p>Controlled by the setting triggerhack_props:    triggeraction 0,0,gr.attr1,data;        Sets data on the specified attribute.  gr.attr1 - gr.attr30 work.</p><p>Controlled by the setting triggerhack_levels:    triggeraction 0,0,gr.updatelevel;        Updates the current level.</p><pre><code>triggeraction 0,0,gr.updatelevel,levelname;    Updates the specified level.</code></pre>",
+            "url": "http://192.168.20.33:4000/2010/08/20/gserver-2-3-1",
+            
+            
+            
+            
+            
+            "date_published": "2010-08-20T00:00:00+10:00",
+            "date_modified": "2010-08-20T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2010/04/16/gserver-2-2-0",
+            "title": "Graal Reborn Gserver 2.2.0",
+            "summary": null,
+            "content_text": "Graal Reborn GServerCreated by: Joey, Nalin.Based off the original work by 39ster.For their additional work on the old gserver, special thanks go to:\tAgret, Beholder, Joey, Marlon, Nalin, and Pac.| Quick Start Instructions |—————————-How-to setup a server:1) Under the accounts folder, rename the text file ‘YOURACCOUNT.txt’ to your account name.  For example: ‘KuJi.txt’2) Modify defaultaccount.txt to your liking.  This is the default settings new players will start with.  It can also be modified via RC.3) Open config/serveroptions.txt and edit it to your liking.  Be sure to modify the settings under “Private server options”.  Help for what these options do are available on the forums and in the file itself.4) Find the line that starts with “staff=” in config/serveroptions.txt.  Replace YOURACCOUNT with your account name.  Anybody who needs RC access must be added to this line with their account names separated by commas.  Additionally, RC users must have their IP range changed to at least ... in their account to connect.5) Port forward if needed. (Many threads on this topic exist in the forums.  If you are having trouble, seek them out.  Try the tutorials forum.)  Basically, if you are behind a router and your computer isn’t set to be the “DMZ”, you will need to port forward.6) Run gserver2.exe – enjoy.7) Report any bugs on http://www.graal.in/| servers.txt |—————The gserver can run multiple servers at once without needing to spawn separate processes.  This is accomplished by the servers.txt file.  This file will tell the gserver how many servers to run and where they are located, as well as some optional ip and port overrides.The file looks like this:    servercount = 1    server_1 = default    server_1_ip = myserver.com    server_1_port = 12345    server_1_localip = 127.0.0.1servercount specifies the number of servers.  In the default file, that is 1 server.server_# specifies the directory the server is under.server_#ip specifies an optional ip address override.server#port specifies an optional port override.server#_localip specifies an optional localip override.All of the optional overrides will take precedence over the options defined in serveroptions.txt.| Special Graal Reborn NPC commands |————————————-The Graal Reborn gserver has a couple special NPC commands built in.join somefile;    Much like official Graal’s server-side join command, this command searches for somefile.txt and appends the contents to the end of the NPC script.singleplayer    This command is like the sparringzone command.  When placed by itself with no semi-colon inside an NPC, it signifies that the level is “singleplayer.”  (SEE: Singleplayer Levels).| Singleplayer Levels |———————–The Graal Reborn gserver has the ability to toggle a level as “singleplayer.”  In this mode, the user cannot see any other player in the level.  Any changes they make to the level are not replicated to other users.  They are, in essence, in a level by themselves.To activate singleplayer mode, add an NPC to the level and add the single command “singleplayer” to the level, much like how the “sparringzone” command works.| Group Maps |—————-Like singleplayer levels, group maps allow only players in a group to see each other in a level.  Player groups can be managed via the gr.setgroup and gr.setlevelgroup triggeractions (SEE: Graal Reborn special triggeractions).Individual levels cannot be set as group levels; instead, an entire map must be specified as a group map.  The “groupmaps” server option specifies a comma-delimited list of maps that can contain groups.| Graal Reborn special client flags |————————————-There are a few special client flags built into the gserver.  These are:gr.xgr.ygr.zThese flags are used by the -gr_movement weapon included in the server weapons folder to simulate the smooth movement as found in the Graal clients 2.3 and up.If you don’t want the gserver to recognize these flags, set the flaghack_movement setting to false in serveroptions.txt.| Graal Reborn special triggeractions |—————————————The Graal Reborn gserver has a couple unique triggeractions built into it.  They can be enabled/disabled by altering the setting that controls their group in serveroptions.txt.  They are as follows:Controlled by the setting triggerhack_weapons:    triggeraction 0,0,gr.addweapon,weapon1,weapon2,weapon3;        Adds weapon1, weapon2, and weapon3 to the player’s account.triggeraction 0,0,gr.deleteweapon,weapon1,weapon2,weapon3;    Removes weapon1, weapon2, and weapon3 from the player's account.Controlled by the setting triggerhack_guilds:    triggeraction 0,0,gr.addguildmember,guild,account,nickname;        Adds a player to the specified guild.  Nickname is optional.triggeraction 0,0,gr.removeguildmember,guild,account;    Removes a player from the specified guild.triggeraction 0,0,gr.removeguild,guild;    Removes the guild from the server.triggeraction 0,0,gr.setguild,guild,account;    Sets the player's guild tag to the specified guild.Controlled by the setting triggerhack_groups:    triggeraction 0,0,gr.setgroup,group;        Adds the player to the specified group.triggeraction 0,0,gr.setlevelgroup,group;    Adds all the players in the level to the specified group.Controlled by the setting triggerhack_files:    triggeraction 0,0,gr.appendfile,filename,text;        Opens the file specified, located in the server’s logs directory, and appends a line of text.triggeraction 0,0,gr.writefile,filename,text;    Opens the file specified, located in the server's logs directory, erases all of its contents, and writes a line of text.Controlled by the setting triggerhack_rc:    triggeraction 0,0,gr.rcchat,Some chat text;        Sends some chat text to any logged in RC’s.",
+            "content_html": "<p>Graal Reborn GServerCreated by: Joey, Nalin.Based off the original work by 39ster.For their additional work on the old gserver, special thanks go to:\tAgret, Beholder, Joey, Marlon, Nalin, and Pac.</p><hr /><p>| Quick Start Instructions |—————————-</p><p>How-to setup a server:</p><p>1) Under the accounts folder, rename the text file ‘YOURACCOUNT.txt’ to your account name.  For example: ‘KuJi.txt’2) Modify defaultaccount.txt to your liking.  This is the default settings new players will start with.  It can also be modified via RC.3) Open config/serveroptions.txt and edit it to your liking.  Be sure to modify the settings under “Private server options”.  Help for what these options do are available on the forums and in the file itself.4) Find the line that starts with “staff=” in config/serveroptions.txt.  Replace YOURACCOUNT with your account name.  Anybody who needs RC access must be added to this line with their account names separated by commas.  Additionally, RC users must have their IP range changed to at least <em>.</em>.<em>.</em> in their account to connect.5) Port forward if needed. (Many threads on this topic exist in the forums.  If you are having trouble, seek them out.  Try the tutorials forum.)  Basically, if you are behind a router and your computer isn’t set to be the “DMZ”, you will need to port forward.6) Run gserver2.exe – enjoy.7) Report any bugs on http://www.graal.in/</p><hr /><p>| servers.txt |—————</p><p>The gserver can run multiple servers at once without needing to spawn separate processes.  This is accomplished by the servers.txt file.  This file will tell the gserver how many servers to run and where they are located, as well as some optional ip and port overrides.</p><p>The file looks like this:    servercount = 1    server_1 = default    server_1_ip = myserver.com    server_1_port = 12345    server_1_localip = 127.0.0.1</p><p>servercount specifies the number of servers.  In the default file, that is 1 server.server_# specifies the directory the server is under.server_#<em>ip specifies an optional ip address override.server</em>#<em>port specifies an optional port override.server</em>#_localip specifies an optional localip override.</p><p>All of the optional overrides will take precedence over the options defined in serveroptions.txt.</p><hr /><p>| Special Graal Reborn NPC commands |————————————-</p><p>The Graal Reborn gserver has a couple special NPC commands built in.</p><p>join somefile;    Much like official Graal’s server-side join command, this command searches for somefile.txt and appends the contents to the end of the NPC script.</p><p>singleplayer    This command is like the sparringzone command.  When placed by itself with no semi-colon inside an NPC, it signifies that the level is “singleplayer.”  (SEE: Singleplayer Levels).</p><hr /><p>| Singleplayer Levels |———————–</p><p>The Graal Reborn gserver has the ability to toggle a level as “singleplayer.”  In this mode, the user cannot see any other player in the level.  Any changes they make to the level are not replicated to other users.  They are, in essence, in a level by themselves.</p><p>To activate singleplayer mode, add an NPC to the level and add the single command “singleplayer” to the level, much like how the “sparringzone” command works.</p><hr /><p>| Group Maps |—————-</p><p>Like singleplayer levels, group maps allow only players in a group to see each other in a level.  Player groups can be managed via the gr.setgroup and gr.setlevelgroup triggeractions (SEE: Graal Reborn special triggeractions).</p><p>Individual levels cannot be set as group levels; instead, an entire map must be specified as a group map.  The “groupmaps” server option specifies a comma-delimited list of maps that can contain groups.</p><hr /><p>| Graal Reborn special client flags |————————————-</p><p>There are a few special client flags built into the gserver.  These are:gr.xgr.ygr.z</p><p>These flags are used by the -gr_movement weapon included in the server weapons folder to simulate the smooth movement as found in the Graal clients 2.3 and up.</p><p>If you don’t want the gserver to recognize these flags, set the flaghack_movement setting to false in serveroptions.txt.</p><hr /><p>| Graal Reborn special triggeractions |—————————————</p><p>The Graal Reborn gserver has a couple unique triggeractions built into it.  They can be enabled/disabled by altering the setting that controls their group in serveroptions.txt.  They are as follows:</p><p>Controlled by the setting triggerhack_weapons:    triggeraction 0,0,gr.addweapon,weapon1,weapon2,weapon3;        Adds weapon1, weapon2, and weapon3 to the player’s account.</p><pre><code>triggeraction 0,0,gr.deleteweapon,weapon1,weapon2,weapon3;    Removes weapon1, weapon2, and weapon3 from the player's account.</code></pre><p>Controlled by the setting triggerhack_guilds:    triggeraction 0,0,gr.addguildmember,guild,account,nickname;        Adds a player to the specified guild.  Nickname is optional.</p><pre><code>triggeraction 0,0,gr.removeguildmember,guild,account;    Removes a player from the specified guild.triggeraction 0,0,gr.removeguild,guild;    Removes the guild from the server.triggeraction 0,0,gr.setguild,guild,account;    Sets the player's guild tag to the specified guild.</code></pre><p>Controlled by the setting triggerhack_groups:    triggeraction 0,0,gr.setgroup,group;        Adds the player to the specified group.</p><pre><code>triggeraction 0,0,gr.setlevelgroup,group;    Adds all the players in the level to the specified group.</code></pre><p>Controlled by the setting triggerhack_files:    triggeraction 0,0,gr.appendfile,filename,text;        Opens the file specified, located in the server’s logs directory, and appends a line of text.</p><pre><code>triggeraction 0,0,gr.writefile,filename,text;    Opens the file specified, located in the server's logs directory, erases all of its contents, and writes a line of text.</code></pre><p>Controlled by the setting triggerhack_rc:    triggeraction 0,0,gr.rcchat,Some chat text;        Sends some chat text to any logged in RC’s.</p>",
+            "url": "http://192.168.20.33:4000/2010/04/16/gserver-2-2-0",
+            
+            
+            
+            
+            
+            "date_published": "2010-04-16T00:00:00+10:00",
+            "date_modified": "2010-04-16T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2010/02/07/gserver-2-1-0",
+            "title": "Graal Reborn Gserver 2.1.0",
+            "summary": null,
+            "content_text": "Graal Reborn GServerCreated by: Joey, Nalin.Based off the original work by 39ster.For their additional work on the old gserver, special thanks go to:\tAgret, Beholder, Joey, Marlon, Nalin, and Pac.How-to setup a server:1) Under the accounts folder, rename the text file ‘YOURACCOUNT.txt’ to your account name.  For example: ‘KuJi.txt’2) Modify defaultaccount.txt to your liking.  This is the default settings new players will start with.  It can also be modified via RC.3) Open config/serveroptions.txt and edit it to your liking.  Be sure to modify the settings under “Private server options”.  Help for what these options do are available on the forums and in the file itself.4) Find the line that starts with “staff=” in config/serveroptions.txt.  Replace YOURACCOUNT with your account name.  Anybody who needs RC access must be added to this line with their account names separated by commas.  Additionally, RC users must have their IP range changed to at least ... in their account to connect.5) Port forward if needed. (Many threads on this topic exist in the forums.  If you are having trouble, seek them out.  Try the tutorials forum.)  Basically, if you are behind a router and your computer isn’t set to be the “DMZ”, you will need to port forward.6) Run gserver.exe – enjoy.7) Report any bugs on http://www.graal.in/  Graal Reborn Team",
+            "content_html": "<p>Graal Reborn GServerCreated by: Joey, Nalin.Based off the original work by 39ster.For their additional work on the old gserver, special thanks go to:\tAgret, Beholder, Joey, Marlon, Nalin, and Pac.</p><p>How-to setup a server:</p><p>1) Under the accounts folder, rename the text file ‘YOURACCOUNT.txt’ to your account name.  For example: ‘KuJi.txt’2) Modify defaultaccount.txt to your liking.  This is the default settings new players will start with.  It can also be modified via RC.3) Open config/serveroptions.txt and edit it to your liking.  Be sure to modify the settings under “Private server options”.  Help for what these options do are available on the forums and in the file itself.4) Find the line that starts with “staff=” in config/serveroptions.txt.  Replace YOURACCOUNT with your account name.  Anybody who needs RC access must be added to this line with their account names separated by commas.  Additionally, RC users must have their IP range changed to at least <em>.</em>.<em>.</em> in their account to connect.5) Port forward if needed. (Many threads on this topic exist in the forums.  If you are having trouble, seek them out.  Try the tutorials forum.)  Basically, if you are behind a router and your computer isn’t set to be the “DMZ”, you will need to port forward.6) Run gserver.exe – enjoy.7) Report any bugs on http://www.graal.in/</p><ul>  <li>Graal Reborn Team</li></ul>",
+            "url": "http://192.168.20.33:4000/2010/02/07/gserver-2-1-0",
+            
+            
+            
+            
+            
+            "date_published": "2010-02-07T00:00:00+11:00",
+            "date_modified": "2010-02-07T00:00:00+11:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2007/11/08/gserverrev51",
+            "title": "Graal Reborn Gserver (Rev 51)",
+            "summary": null,
+            "content_text": "Graal GServer 217 - Coded by 39ster.Modifications by Agret, Beholder, Joey, Marlon, Pac.How-to setup a server:1) Under the accounts folder, rename the text file ‘YOURACCOUNT.txt’ to your account name.ex: ‘KuJi.txt’ 2) Open server options and edit the things below “Private-Server Options”, by default you should be able to just open the gserver and run it. 3) Add your account name under the staff server option and then save the serveroptions.txt 4) Port forward if needed. 5) Run winGserver.exe – enjoy. 6) Report any bugs on http://www.graal.in/Graal Reborn Team",
+            "content_html": "<p>Graal GServer 217 - Coded by 39ster.Modifications by Agret, Beholder, Joey, Marlon, Pac.</p><p>How-to setup a server:</p><p>1) Under the accounts folder, rename the text file ‘YOURACCOUNT.txt’ to your account name.ex: ‘KuJi.txt’ 2) Open server options and edit the things below “Private-Server Options”, by default you should be able to just open the gserver and run it. 3) Add your account name under the staff server option and then save the serveroptions.txt 4) Port forward if needed. 5) Run winGserver.exe – enjoy. 6) Report any bugs on http://www.graal.in/</p><p>Graal Reborn Team</p>",
+            "url": "http://192.168.20.33:4000/2007/11/08/gserverrev51",
+            
+            
+            
+            
+            
+            "date_published": "2007-11-08T00:00:00+11:00",
+            "date_modified": "2007-11-08T00:00:00+11:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2007/09/05/gserverrev31",
+            "title": "Graal Reborn Gserver (Rev 31)",
+            "summary": null,
+            "content_text": "GServer2 DocumentationAboutGServer2 was programmed in CodeBlocks (mingw C++) by 39ster (39ster@gmail.com)Thanks to the following people who helped convert the old 1.39 code to 2.17:MarlonAgretPacMasta30039sterThese modifications made it possible to create this new gserver that is almost fully compatible with graal 2.17Running a serverOk, now that you have unpacked the gserver, you are almost ready to start it. Before you can start it we must do a fewthings. First open settings.ini. This file allows you to cange how the server behaves.[server]databaseFile is the “.db” file that will be used by the gserver to store accounts and player attributes. To generate a database filerun dbsetup[.exe]. Follow the instructions and a new file called gserver.db should be created. Set the value ofdatabaseFile to gserver.db [databaseFile = gserver.db]. The other values  under [server] are pretty self explanatory,but make sure worldName is equal to main. If you are running two gservers from the same databaseFile than the worldNamewill need to be different and you must also create a new table with the same fields as the table “main” in db.sql and name thistable the value of worldName.[level]Changes level properties.NOTE: 1 = true, 0 = false[player]Changes player properties.NOTE: 1 = true, 0 = false[listserver]The list server is what the gserver connects to in order to have it appear in the server list. It is also used to verify accountnames and passwords so its also an Accounts Server.All the values are self explanatory. myIp can also be set to AUTO if you want the list server to find your external IP.Now that you have configured the server, open newaccount.ini. This file determines the attributes of a new player (a player thathas never joined the server until now).Once that is done, copy your playerworld to the “world” directory. You’re now ready to start the server.Once started you can join the server by connecting to it through the graal client. It should appear on the server list (if the graal client is using the same listIp).Managing a serverThere is a tool called the RC (Remote Control). This program can connect to your server and allow you to carry ouradministration functions. To allow player RC access, go into “View Accounts” and find their account name on the list.Right click their account and choose Edit Account. Now set their admin level to a value between 0 and 5 (0 having no admin power, 5 having full power). Press save or send and then right click their name again and choose “Edit Rights”. This shows a list of Admin rights. Choose the rights you want the player to have and than set their IP. The ip can be a range such as 54.33.87.*Save the account and they should now be able to access the Remote Control.",
+            "content_html": "<p>GServer2 Documentation</p><p>AboutGServer2 was programmed in CodeBlocks (mingw C++) by 39ster (39ster@gmail.com)Thanks to the following people who helped convert the old 1.39 code to 2.17:MarlonAgretPacMasta30039ster</p><p>These modifications made it possible to create this new gserver that is almost fully compatible with graal 2.17</p><p>Running a server</p><p>Ok, now that you have unpacked the gserver, you are almost ready to start it. Before you can start it we must do a fewthings. First open settings.ini. This file allows you to cange how the server behaves.</p><p>[server]databaseFile is the “.db” file that will be used by the gserver to store accounts and player attributes. To generate a database filerun dbsetup[.exe]. Follow the instructions and a new file called gserver.db should be created. Set the value ofdatabaseFile to gserver.db [databaseFile = gserver.db]. The other values  under [server] are pretty self explanatory,but make sure worldName is equal to main. If you are running two gservers from the same databaseFile than the worldNamewill need to be different and you must also create a new table with the same fields as the table “main” in db.sql and name thistable the value of worldName.</p><p>[level]Changes level properties.NOTE: 1 = true, 0 = false</p><p>[player]Changes player properties.NOTE: 1 = true, 0 = false</p><p>[listserver]The list server is what the gserver connects to in order to have it appear in the server list. It is also used to verify accountnames and passwords so its also an Accounts Server.All the values are self explanatory. myIp can also be set to AUTO if you want the list server to find your external IP.</p><p>Now that you have configured the server, open newaccount.ini. This file determines the attributes of a new player (a player thathas never joined the server until now).</p><p>Once that is done, copy your playerworld to the “world” directory. You’re now ready to start the server.Once started you can join the server by connecting to it through the graal client. It should appear on the server list (if the graal client is using the same listIp).</p><p>Managing a server</p><p>There is a tool called the RC (Remote Control). This program can connect to your server and allow you to carry ouradministration functions. To allow player RC access, go into “View Accounts” and find their account name on the list.Right click their account and choose Edit Account. Now set their admin level to a value between 0 and 5 (0 having no admin power, 5 having full power). Press save or send and then right click their name again and choose “Edit Rights”. This shows a list of Admin rights. Choose the rights you want the player to have and than set their IP. The ip can be a range such as 54.33.87.*Save the account and they should now be able to access the Remote Control.</p>",
+            "url": "http://192.168.20.33:4000/2007/09/05/gserverrev31",
+            
+            
+            
+            
+            
+            "date_published": "2007-09-05T00:00:00+10:00",
+            "date_modified": "2007-09-05T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2007/08/27/gserverrev29",
+            "title": "Graal Reborn Gserver (Rev 29)",
+            "summary": null,
+            "content_text": "GServer2 DocumentationAboutGServer2 was programmed in CodeBlocks (mingw C++) by 39ster (39ster@gmail.com)Thanks to the following people who helped convert the old 1.39 code to 2.17:MarlonAgretPacMasta30039sterThese modifications made it possible to create this new gserver that is almost fully compatible with graal 2.17Running a serverOk, now that you have unpacked the gserver, you are almost ready to start it. Before you can start it we must do a fewthings. First open settings.ini. This file allows you to cange how the server behaves.[server]databaseFile is the “.db” file that will be used by the gserver to store accounts and player attributes. To generate a database filerun dbsetup[.exe]. Follow the instructions and a new file called gserver.db should be created. Set the value ofdatabaseFile to gserver.db [databaseFile = gserver.db]. The other values  under [server] are pretty self explanatory,but make sure worldName is equal to main. If you are running two gservers from the same databaseFile than the worldNamewill need to be different and you must also create a new table with the same fields as the table “main” in db.sql and name thistable the value of worldName.[level]Changes level properties.NOTE: 1 = true, 0 = false[player]Changes player properties.NOTE: 1 = true, 0 = false[listserver]The list server is what the gserver connects to in order to have it appear in the server list. It is also used to verify accountnames and passwords so its also an Accounts Server.All the values are self explanatory. myIp can also be set to AUTO if you want the list server to find your external IP.Now that you have configured the server, open newaccount.ini. This file determines the attributes of a new player (a player thathas never joined the server until now).Once that is done, copy your playerworld to the “world” directory. You’re now ready to start the server.Once started you can join the server by connecting to it through the graal client. It should appear on the server list (if the graal client is using the same listIp).Managing a serverThere is a tool called the RC (Remote Control). This program can connect to your server and allow you to carry ouradministration functions. To allow player RC access, go into “View Accounts” and find their account name on the list.Right click their account and choose Edit Account. Now set their admin level to a value between 0 and 5 (0 having no admin power, 5 having full power). Press save or send and then right click their name again and choose “Edit Rights”. This shows a list of Admin rights. Choose the rights you want the player to have and than set their IP. The ip can be a range such as 54.33.87.*Save the account and they should now be able to access the Remote Control.",
+            "content_html": "<p>GServer2 Documentation</p><p>AboutGServer2 was programmed in CodeBlocks (mingw C++) by 39ster (39ster@gmail.com)Thanks to the following people who helped convert the old 1.39 code to 2.17:MarlonAgretPacMasta30039ster</p><p>These modifications made it possible to create this new gserver that is almost fully compatible with graal 2.17</p><p>Running a server</p><p>Ok, now that you have unpacked the gserver, you are almost ready to start it. Before you can start it we must do a fewthings. First open settings.ini. This file allows you to cange how the server behaves.</p><p>[server]databaseFile is the “.db” file that will be used by the gserver to store accounts and player attributes. To generate a database filerun dbsetup[.exe]. Follow the instructions and a new file called gserver.db should be created. Set the value ofdatabaseFile to gserver.db [databaseFile = gserver.db]. The other values  under [server] are pretty self explanatory,but make sure worldName is equal to main. If you are running two gservers from the same databaseFile than the worldNamewill need to be different and you must also create a new table with the same fields as the table “main” in db.sql and name thistable the value of worldName.</p><p>[level]Changes level properties.NOTE: 1 = true, 0 = false</p><p>[player]Changes player properties.NOTE: 1 = true, 0 = false</p><p>[listserver]The list server is what the gserver connects to in order to have it appear in the server list. It is also used to verify accountnames and passwords so its also an Accounts Server.All the values are self explanatory. myIp can also be set to AUTO if you want the list server to find your external IP.</p><p>Now that you have configured the server, open newaccount.ini. This file determines the attributes of a new player (a player thathas never joined the server until now).</p><p>Once that is done, copy your playerworld to the “world” directory. You’re now ready to start the server.Once started you can join the server by connecting to it through the graal client. It should appear on the server list (if the graal client is using the same listIp).</p><p>Managing a server</p><p>There is a tool called the RC (Remote Control). This program can connect to your server and allow you to carry ouradministration functions. To allow player RC access, go into “View Accounts” and find their account name on the list.Right click their account and choose Edit Account. Now set their admin level to a value between 0 and 5 (0 having no admin power, 5 having full power). Press save or send and then right click their name again and choose “Edit Rights”. This shows a list of Admin rights. Choose the rights you want the player to have and than set their IP. The ip can be a range such as 54.33.87.*Save the account and they should now be able to access the Remote Control.</p>",
+            "url": "http://192.168.20.33:4000/2007/08/27/gserverrev29",
+            
+            
+            
+            
+            
+            "date_published": "2007-08-27T00:00:00+10:00",
+            "date_modified": "2007-08-27T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2007/01/02/39sters2-1gserver",
+            "title": "39ster Gserver 2.1 (Win32 Bin & Src)",
+            "summary": null,
+            "content_text": "This is an opensource complete remake of the original 1.39 gserver. It has been designedfrom the ground up and works for graal clients 2.*.The source code package has been designed to compile without errors in both windows andlinux.World data (images, levels, scripts, ganis, sounds, etc) go in the data folder.Account properties (x, y, level, weapons, colours, etc) are saved in the accounts folder.Account details (username, password, profiles, etc) are loaded from a mysql server.",
+            "content_html": "<p>This is an opensource complete remake of the original 1.39 gserver. It has been designedfrom the ground up and works for graal clients 2.*.The source code package has been designed to compile without errors in both windows andlinux.</p><p>World data (images, levels, scripts, ganis, sounds, etc) go in the data folder.Account properties (x, y, level, weapons, colours, etc) are saved in the accounts folder.Account details (username, password, profiles, etc) are loaded from a mysql server.</p>",
+            "url": "http://192.168.20.33:4000/2007/01/02/39sters2-1gserver",
+            
+            
+            
+            
+            
+            "date_published": "2007-01-02T00:00:00+11:00",
+            "date_modified": "2007-01-02T00:00:00+11:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2006/09/29/sidrax-v1-4-srv-src-1-3-9",
+            "title": "Sidrax Gserver 1.4 (Src)",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://192.168.20.33:4000/2006/09/29/sidrax-v1-4-srv-src-1-3-9",
+            
+            
+            
+            
+            
+            "date_published": "2006-09-29T00:00:00+10:00",
+            "date_modified": "2006-09-29T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2005/07/20/justburngserver139",
+            "title": "JustBurn Gserver 1.3.9 (Win32 Bin&Src)",
+            "summary": null,
+            "content_text": "Modified Graal Server 1.39+ Version 1.1Requirements:  Internet Connection  Windows Operative-System or Linux Operative-System  Graal 1.39 Client (to play on it)  RemoteControl 1.39 (to control the server)  Server files (GIFs, Levels, etc…)Note: Graal 1.39+ server have a switch to use TextFile based database      that can avoid user installing and config MySQL (good for n00b users)Install (MySQL database - Experienced users &amp; Linux only):Place GServer.exe anywhere, make sure that server files are in “\\levels” directory.Run “/usr/local/mysql/bin/safe_mysqld –user=root –password= &amp;\"Create gserver database and gserver user/passwordDetermine a username and password to use, in this example i used 'gserver' as username and 'god' as passwordRun the following commands in the mysql client: (without the \"mysql&gt;\" parts :P)mysql&gt; CREATE DATABASE gserver;mysql&gt; GRANT ALL PRIVILEGES ON . TO gserver@localhost IDENTIFIED BY ‘god’ WITH GRANT OPTION;mysql&gt; flush privileges;mysql&gt; exitCreate tables in the gserver database using the gserver139plusdump.txt fileIn a shell prompt, cd to the directory containing the gserver139plusdump.txt file, then type “/usr/local/bin/mysql &lt; gserver139plusdump.txt –user=root –password=\"mysql is now all set up, but you have to tell the gserver where it is, so edit your gserver/data/mysql.txt file to the following:server = localhostusername = gserverpassword = goddatabase = gserversocket = /var/run/mysqld/mysqld.sock(note: you might have to change this depending on what flavor of linux you’re running. This setting works on debian 3.1. Try /temp/mysql.sock if it doesnt work)GServer.exe ready to use.Allow your IP in “data/ipgps.txt” then run RemoteControl to create others peoples accountsTo close GServer, press Ctrl+CInstall (TextFile database):Place GServer.exe anywhere, make sure that server files are in “\\levels” directory, double-click GServer.exe.Allow your IP in “data/ipgps.txt” and login using the RemoteControl with:host: (Hostname or IP where GServer.exe is running)user: adminpass: adminPlease rename admin password and create others players accounts in the RemoteControl.To close the server, press ESC in the keyboard while GServer window in active (only for Windows).Information:GIFs &amp; Levels can be anywhere inside “\\levels”, this modified server also supports sub-directorys seach for levels filesin RC, type “help-&gt;help” to get information of available componets.To control Sub-directorys cache, try “help-&gt;subdirs” for more information.If you add or remove any sub-directory, please update subdir cache.NOTE FOR LINUX USERS: Always use lowercase files for levels and gifs!To enable “server-&gt;shutdown”, you need to uncomment “ALLOW_SHUTDOWN” inside “gserver.cpp” and recompile source code.To switch databases in source code, look in “otherstuff.cpp”Additions to RemoteControl chat:“/me (message)”:if you name is n00b and type “/me is dying”, this will be shown to others admins “*: n00b is dying”“help-&gt;help”Information of how to use components, only 2 components available right now: “help” and “subdir”“subdirs-&gt;refresh”Use this if you add a sub-directory while GServer still running“subdirs-&gt;count”Print how many sub-directorys are in cache“subdirs-&gt;list [index]”Print the sub-directory in cache at index (should be a number)“subdirs-&gt;listall”Print all the sub-directorys in cache“server-&gt;uptime” (Added in version 1.1)Report uptime“server-&gt;version” (Added in version 1.1)Report graal server version“server-&gt;shutdown” (Added in version 1.1)Shutdown server (DUE TO SECURITY REASONS, THIS COMMAND CAN BE ENABLED / DISABLED(Default))“server-&gt;msg \" (Added in version 1.1)Display a message to GServer windowAdditions to Graal Client chat:“setskin (color)”Set the skin color“setcoat (color)”Set the coat color“setsleeve (color)”Set the sleeve color“setshoe (color)”Set shoes color“setbelt (color)”Set belt colorAvailable colors are:“white”, “yellow”, “orange”, “pink”, “red”, “darkred”, “lightgreed”, “green”, “darkgreen”, “lightblue”, “blue”, “darkblue”, “brown”, “cynober”, “purple”, “darkpurple”, “lightgray”, “gray”, “black”, “transparent”",
+            "content_html": "<h2 id=\"modified-graal-server-139-version-11\">Modified Graal Server 1.39+ Version 1.1</h2><p>Requirements:  Internet Connection  Windows Operative-System or Linux Operative-System  Graal 1.39 Client (to play on it)  RemoteControl 1.39 (to control the server)  Server files (GIFs, Levels, etc…)</p><p>Note: Graal 1.39+ server have a switch to use TextFile based database      that can avoid user installing and config MySQL (good for n00b users)</p><h2 id=\"install-mysql-database---experienced-users--linux-only\">Install (MySQL database - Experienced users &amp; Linux only):</h2><p>Place GServer.exe anywhere, make sure that server files are in “\\levels” directory.Run “/usr/local/mysql/bin/safe_mysqld –user=root –password=<insert password=\"\" here=\"\"> &amp;\"Create gserver database and gserver user/passwordDetermine a username and password to use, in this example i used 'gserver' as username and 'god' as passwordRun the following commands in the mysql client: (without the \"mysql&gt;\" parts :P)</insert></p><p>mysql&gt; CREATE DATABASE gserver;mysql&gt; GRANT ALL PRIVILEGES ON <em>.</em> TO gserver@localhost IDENTIFIED BY ‘god’ WITH GRANT OPTION;mysql&gt; flush privileges;mysql&gt; exit</p><p>Create tables in the gserver database using the gserver139plusdump.txt fileIn a shell prompt, cd to the directory containing the gserver139plusdump.txt file, then type “/usr/local/bin/mysql &lt; gserver139plusdump.txt –user=root –password=<insert password=\"\" here=\"\">\"mysql is now all set up, but you have to tell the gserver where it is, so edit your gserver/data/mysql.txt file to the following:</insert></p><p>server = localhostusername = gserverpassword = goddatabase = gserversocket = /var/run/mysqld/mysqld.sock</p><p>(note: you might have to change this depending on what flavor of linux you’re running. This setting works on debian 3.1. Try /temp/mysql.sock if it doesnt work)</p><p>GServer.exe ready to use.Allow your IP in “data/ipgps.txt” then run RemoteControl to create others peoples accountsTo close GServer, press Ctrl+C</p><h2 id=\"install-textfile-database\">Install (TextFile database):</h2><p>Place GServer.exe anywhere, make sure that server files are in “\\levels” directory, double-click GServer.exe.Allow your IP in “data/ipgps.txt” and login using the RemoteControl with:</p><p>host: (Hostname or IP where GServer.exe is running)user: adminpass: admin</p><p>Please rename admin password and create others players accounts in the RemoteControl.</p><p>To close the server, press ESC in the keyboard while GServer window in active (only for Windows).</p><h2 id=\"information\">Information:</h2><p>GIFs &amp; Levels can be anywhere inside “\\levels”, this modified server also supports sub-directorys seach for levels files</p><p>in RC, type “help-&gt;help” to get information of available componets.To control Sub-directorys cache, try “help-&gt;subdirs” for more information.</p><p>If you add or remove any sub-directory, please update subdir cache.</p><p>NOTE FOR LINUX USERS: Always use lowercase files for levels and gifs!</p><p>To enable “server-&gt;shutdown”, you need to uncomment “ALLOW_SHUTDOWN” inside “gserver.cpp” and recompile source code.</p><p>To switch databases in source code, look in “otherstuff.cpp”</p><h2 id=\"additions-to-remotecontrol-chat\">Additions to RemoteControl chat:</h2><p>“/me (message)”:if you name is n00b and type “/me is dying”, this will be shown to others admins “*: n00b is dying”</p><p>“help-&gt;help”Information of how to use components, only 2 components available right now: “help” and “subdir”</p><p>“subdirs-&gt;refresh”Use this if you add a sub-directory while GServer still running</p><p>“subdirs-&gt;count”Print how many sub-directorys are in cache</p><p>“subdirs-&gt;list [index]”Print the sub-directory in cache at index (should be a number)</p><p>“subdirs-&gt;listall”Print all the sub-directorys in cache</p><p>“server-&gt;uptime” (Added in version 1.1)Report uptime</p><p>“server-&gt;version” (Added in version 1.1)Report graal server version</p><p>“server-&gt;shutdown” (Added in version 1.1)Shutdown server (DUE TO SECURITY REASONS, THIS COMMAND CAN BE ENABLED / DISABLED(Default))</p><p>“server-&gt;msg <msg>\" (Added in version 1.1)Display a message to GServer window</msg></p><h2 id=\"additions-to-graal-client-chat\">Additions to Graal Client chat:</h2><p>“setskin (color)”Set the skin color</p><p>“setcoat (color)”Set the coat color</p><p>“setsleeve (color)”Set the sleeve color</p><p>“setshoe (color)”Set shoes color</p><p>“setbelt (color)”Set belt color</p><p>Available colors are:“white”, “yellow”, “orange”, “pink”, “red”, “darkred”, “lightgreed”, “green”, “darkgreen”, “lightblue”, “blue”, “darkblue”, “brown”, “cynober”, “purple”, “darkpurple”, “lightgray”, “gray”, “black”, “transparent”</p>",
+            "url": "http://192.168.20.33:4000/2005/07/20/justburngserver139",
+            
+            
+            
+            
+            
+            "date_published": "2005-07-20T00:00:00+10:00",
+            "date_modified": "2005-07-20T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2005/02/07/newmaingserver",
+            "title": "NewMain Gserver (Source)",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://192.168.20.33:4000/2005/02/07/newmaingserver",
+            
+            
+            
+            
+            
+            "date_published": "2005-02-07T00:00:00+11:00",
+            "date_modified": "2005-02-07T00:00:00+11:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2004/07/14/matriarkgserver139",
+            "title": "Matriark's Gserver 1.3.9 (Win32 Bin)",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://192.168.20.33:4000/2004/07/14/matriarkgserver139",
+            
+            
+            
+            
+            
+            "date_published": "2004-07-14T00:00:00+10:00",
+            "date_modified": "2004-07-14T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2004/02/21/termina",
+            "title": "Graal 139",
+            "summary": null,
+            "content_text": "Download",
+            "content_html": "<p><a href=\"https://archive.org/details/Termina\"><img src=\"https://archive.org/download/Termina/graal139.PNG\" alt=\"Graal being run in a window.\" title=\"Graal v1.39\" /></a></p><p><a href=\"https://archive.org/download/Termina/Termina.zip\">Download</a></p>",
+            "url": "http://192.168.20.33:4000/2004/02/21/termina",
+            
+            
+            
+            
+            
+            "date_published": "2004-02-21T00:00:00+11:00",
+            "date_modified": "2004-02-21T00:00:00+11:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2003/08/01/139linuxgserver-nomysql",
+            "title": "Gserver 1.3.9 (No-MySQL) (Source)",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://192.168.20.33:4000/2003/08/01/139linuxgserver-nomysql",
+            
+            
+            
+            
+            
+            "date_published": "2003-08-01T00:00:00+10:00",
+            "date_modified": "2003-08-01T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2003/07/26/gserver-134-win32",
+            "title": "Gserver1.3.4 (Win32 Bin)",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://192.168.20.33:4000/2003/07/26/gserver-134-win32",
+            
+            
+            
+            
+            
+            "date_published": "2003-07-26T00:00:00+10:00",
+            "date_modified": "2003-07-26T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2002/03/01/projectx-openserver-for-linux",
+            "title": "Project X OpenServer (Source)",
+            "summary": null,
+            "content_text": "ProjectX Linux OpenServer (For Client 1.39)Copyright (C) 2002  Graal A.C.P.FThis Gserver have been completly recoded. No sources taken from other softwarehave been taken to write this software.This program is free software; you can redistribute it and/or modifyit under the terms of the GNU General Public License as published bythe Free Software Foundation; either version 2 of the License, or(at your option) any later version.This program is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty ofMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See theGNU General Public License for more details.You should have received a copy of the GNU General Public Licensealong with this program; if not, write to the Free SoftwareFoundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USASee the file license.txt alone with it.",
+            "content_html": "<p>ProjectX Linux OpenServer (For Client 1.39)</p><p>Copyright (C) 2002  Graal A.C.P.F</p><p>This Gserver have been completly recoded. No sources taken from other softwarehave been taken to write this software.</p><p>This program is free software; you can redistribute it and/or modifyit under the terms of the GNU General Public License as published bythe Free Software Foundation; either version 2 of the License, or(at your option) any later version.</p><p>This program is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty ofMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See theGNU General Public License for more details.</p><p>You should have received a copy of the GNU General Public Licensealong with this program; if not, write to the Free SoftwareFoundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA</p><p>See the file license.txt alone with it.</p>",
+            "url": "http://192.168.20.33:4000/2002/03/01/projectx-openserver-for-linux",
+            
+            
+            
+            
+            
+            "date_published": "2002-03-01T00:00:00+11:00",
+            "date_modified": "2002-03-01T00:00:00+11:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2002/02/16/old-win32-gserver1-39source",
+            "title": "1.3.9 Gserver (Old) (Win32 Bin&Src)",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://192.168.20.33:4000/2002/02/16/old-win32-gserver1-39source",
+            
+            
+            
+            
+            
+            "date_published": "2002-02-16T00:00:00+11:00",
+            "date_modified": "2002-02-16T00:00:00+11:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2001/07/08/gserver139linux",
+            "title": "Gserver1.3.9 (Source)",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://192.168.20.33:4000/2001/07/08/gserver139linux",
+            
+            
+            
+            
+            
+            "date_published": "2001-07-08T00:00:00+10:00",
+            "date_modified": "2001-07-08T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2000/11/13/graal141",
+            "title": "Graal 141",
+            "summary": null,
+            "content_text": "Download",
+            "content_html": "<p><a href=\"https://archive.org/details/graal141\"><img src=\"https://archive.org/download/graal141/graal141.PNG\" alt=\"Graal being run in a window.\" title=\"Graal v1.41\" /></a></p><p><a href=\"https://archive.org/download/graal141/graal141.zip\">Download</a></p>",
+            "url": "http://192.168.20.33:4000/2000/11/13/graal141",
+            
+            
+            
+            
+            
+            "date_published": "2000-11-13T00:00:00+11:00",
+            "date_modified": "2000-11-13T00:00:00+11:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/2000/08/21/gservernwsrc",
+            "title": "NW Gserver (Source)",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://192.168.20.33:4000/2000/08/21/gservernwsrc",
+            
+            
+            
+            
+            
+            "date_published": "2000-08-21T00:00:00+10:00",
+            "date_modified": "2000-08-21T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/1999/12/22/linuxgserver131",
+            "title": "Gserver 1.3.1 (Source)",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://192.168.20.33:4000/1999/12/22/linuxgserver131",
+            
+            
+            
+            
+            
+            "date_published": "1999-12-22T00:00:00+11:00",
+            "date_modified": "1999-12-22T00:00:00+11:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/1998/10/09/1stgraal",
+            "title": "1st Graal",
+            "summary": null,
+            "content_text": "Controls:Running + Push Stones:  Player1: joystick1 or arrow keys or ‘I’/’J’/’K’/’L’  Player2: joystick2 or numpad ‘8’/’5’/’2’/’6’Item Button (shoot darts or lay bombs):  Player1: joystick1 button 1 or ‘D’  Player2: joystick2 button 1 or numpad ‘1’Attack Button (slay sword):  Player1: joystick1 button 2 or ‘S’ or space bar  Player2: joystick2 button 2 or numpad ‘5’Action Button (lift objects, pull stones):  Player1: joystick1 button 3 or ‘A’  Player2: joystick2 button 3 or numpad ‘3’Show Map:  Player1: joystick1 button 4 or ‘M’  Player2: joystick2 button 4 or numpad ‘+’Pause:  Player1: joystick1 button 10 (on Gravis GamePad Pro ‘Start’) or ‘P’  Player2: joystick2 button 10 or numpad ‘0’Switch To Chat Field (in online mode):  joystick button 5 or TAB###Special Actions:Switch Items:  hold Attack Button (S) + Item Button (D)Laying Items:  Select Item: hold Attack Button (S) + Action Button (A)   Lay Item: Action Buton (A)Switching Between Fullscreen And Window mode:  Alt + Enter/Return",
+            "content_html": "<p>Controls:</p><p>Running + Push Stones:  Player1: joystick1 or arrow keys or ‘I’/’J’/’K’/’L’  Player2: joystick2 or numpad ‘8’/’5’/’2’/’6’</p><p>Item Button (shoot darts or lay bombs):  Player1: joystick1 button 1 or ‘D’  Player2: joystick2 button 1 or numpad ‘1’</p><p>Attack Button (slay sword):  Player1: joystick1 button 2 or ‘S’ or space bar  Player2: joystick2 button 2 or numpad ‘5’</p><p>Action Button (lift objects, pull stones):  Player1: joystick1 button 3 or ‘A’  Player2: joystick2 button 3 or numpad ‘3’</p><p>Show Map:  Player1: joystick1 button 4 or ‘M’  Player2: joystick2 button 4 or numpad ‘+’</p><p>Pause:  Player1: joystick1 button 10 (on Gravis GamePad Pro ‘Start’) or ‘P’  Player2: joystick2 button 10 or numpad ‘0’</p><p>Switch To Chat Field (in online mode):  joystick button 5 or TAB</p><p>###Special Actions:</p><p>Switch Items:  hold Attack Button (S) + Item Button (D)</p><p>Laying Items:  Select Item: hold Attack Button (S) + Action Button (A)   Lay Item: Action Buton (A)</p><p>Switching Between Fullscreen And Window mode:  Alt + Enter/Return</p>",
+            "url": "http://192.168.20.33:4000/1998/10/09/1stgraal",
+            
+            
+            
+            
+            
+            "date_published": "1998-10-09T00:00:00+10:00",
+            "date_modified": "1998-10-09T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/1998/09/30/3rdgraal",
+            "title": "3rd Graal",
+            "summary": null,
+            "content_text": "Controls:Running + Push Stones:  Player1: joystick1 or arrow keys or ‘I’/’J’/’K’/’L’  Player2: joystick2 or numpad ‘8’/’5’/’2’/’6’Item Button (shoot darts or lay bombs):  Player1: joystick1 button 1 or ‘D’  Player2: joystick2 button 1 or numpad ‘1’Attack Button (slay sword):  Player1: joystick1 button 2 or ‘S’ or space bar  Player2: joystick2 button 2 or numpad ‘5’Action Button (lift objects, pull stones):  Player1: joystick1 button 3 or ‘A’  Player2: joystick2 button 3 or numpad ‘3’Show Map:  Player1: joystick1 button 4 or ‘M’  Player2: joystick2 button 4 or numpad ‘+’Pause:  Player1: joystick1 button 10 (on Gravis GamePad Pro ‘Start’) or ‘P’  Player2: joystick2 button 10 or numpad ‘0’Switch To Chat Field (in online mode):  joystick button 5 or TAB###Special Actions:Switch Items:  hold Attack Button (S) + Item Button (D)Laying Items:  Select Item: hold Attack Button (S) + Action Button (A)   Lay Item: Action Buton (A)Switching Between Fullscreen And Window mode:  Alt + Enter/Return",
+            "content_html": "<p>Controls:</p><p>Running + Push Stones:  Player1: joystick1 or arrow keys or ‘I’/’J’/’K’/’L’  Player2: joystick2 or numpad ‘8’/’5’/’2’/’6’</p><p>Item Button (shoot darts or lay bombs):  Player1: joystick1 button 1 or ‘D’  Player2: joystick2 button 1 or numpad ‘1’</p><p>Attack Button (slay sword):  Player1: joystick1 button 2 or ‘S’ or space bar  Player2: joystick2 button 2 or numpad ‘5’</p><p>Action Button (lift objects, pull stones):  Player1: joystick1 button 3 or ‘A’  Player2: joystick2 button 3 or numpad ‘3’</p><p>Show Map:  Player1: joystick1 button 4 or ‘M’  Player2: joystick2 button 4 or numpad ‘+’</p><p>Pause:  Player1: joystick1 button 10 (on Gravis GamePad Pro ‘Start’) or ‘P’  Player2: joystick2 button 10 or numpad ‘0’</p><p>Switch To Chat Field (in online mode):  joystick button 5 or TAB</p><p>###Special Actions:</p><p>Switch Items:  hold Attack Button (S) + Item Button (D)</p><p>Laying Items:  Select Item: hold Attack Button (S) + Action Button (A)   Lay Item: Action Buton (A)</p><p>Switching Between Fullscreen And Window mode:  Alt + Enter/Return</p>",
+            "url": "http://192.168.20.33:4000/1998/09/30/3rdgraal",
+            
+            
+            
+            
+            
+            "date_published": "1998-09-30T00:00:00+10:00",
+            "date_modified": "1998-09-30T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/1998/09/16/2ndgraal",
+            "title": "2nd Graal",
+            "summary": null,
+            "content_text": "Controls:Running + Push Stones:  Player1: joystick1 or arrow keys or ‘I’/’J’/’K’/’L’  Player2: joystick2 or numpad ‘8’/’5’/’2’/’6’Item Button (shoot darts or lay bombs):  Player1: joystick1 button 1 or ‘D’  Player2: joystick2 button 1 or numpad ‘1’Attack Button (slay sword):  Player1: joystick1 button 2 or ‘S’ or space bar  Player2: joystick2 button 2 or numpad ‘5’Action Button (lift objects, pull stones):  Player1: joystick1 button 3 or ‘A’  Player2: joystick2 button 3 or numpad ‘3’Show Map:  Player1: joystick1 button 4 or ‘M’  Player2: joystick2 button 4 or numpad ‘+’Pause:  Player1: joystick1 button 10 (on Gravis GamePad Pro ‘Start’) or ‘P’  Player2: joystick2 button 10 or numpad ‘0’Switch To Chat Field (in online mode):  joystick button 5 or TAB###Special Actions:Switch Items:  hold Attack Button (S) + Item Button (D)Laying Items:  Select Item: hold Attack Button (S) + Action Button (A)   Lay Item: Action Buton (A)Switching Between Fullscreen And Window mode:  Alt + Enter/Return",
+            "content_html": "<p>Controls:</p><p>Running + Push Stones:  Player1: joystick1 or arrow keys or ‘I’/’J’/’K’/’L’  Player2: joystick2 or numpad ‘8’/’5’/’2’/’6’</p><p>Item Button (shoot darts or lay bombs):  Player1: joystick1 button 1 or ‘D’  Player2: joystick2 button 1 or numpad ‘1’</p><p>Attack Button (slay sword):  Player1: joystick1 button 2 or ‘S’ or space bar  Player2: joystick2 button 2 or numpad ‘5’</p><p>Action Button (lift objects, pull stones):  Player1: joystick1 button 3 or ‘A’  Player2: joystick2 button 3 or numpad ‘3’</p><p>Show Map:  Player1: joystick1 button 4 or ‘M’  Player2: joystick2 button 4 or numpad ‘+’</p><p>Pause:  Player1: joystick1 button 10 (on Gravis GamePad Pro ‘Start’) or ‘P’  Player2: joystick2 button 10 or numpad ‘0’</p><p>Switch To Chat Field (in online mode):  joystick button 5 or TAB</p><p>###Special Actions:</p><p>Switch Items:  hold Attack Button (S) + Item Button (D)</p><p>Laying Items:  Select Item: hold Attack Button (S) + Action Button (A)   Lay Item: Action Buton (A)</p><p>Switching Between Fullscreen And Window mode:  Alt + Enter/Return</p>",
+            "url": "http://192.168.20.33:4000/1998/09/16/2ndgraal",
+            
+            
+            
+            
+            
+            "date_published": "1998-09-16T00:00:00+10:00",
+            "date_modified": "1998-09-16T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/1998/07/27/zeldaonline2",
+            "title": "ZeldaOnline Java (2nd Release)",
+            "summary": null,
+            "content_text": "This is the Zelda Online local version. It’s written in Java.Send comments to Stefan Knorr: knorr@informatik.uni-rostock.deSome notes:      If you want to enable the multiplayer mode, then youhave to start the game server. It’s files are in the subfolder“server”. It can be started with “start.bat” (if you have the JavaJDK) or with “iestart.bat” (if you have the Internet Explorer).        The game files are in the subfolder “game”. Start the Zeldalocal version with “start.bat” (if you have the Java JDK) or“iestart.bat” (if you have Internet Explorer). If you want tojoin a game party, then select “multiplayer mode” and typein the server machine address. Type in “127.0.0.1” whenthe server runs on the same machine where the Zelda gameis started.        You can also connect to the Zelda Online server at204.85.8.128, but you shoudn’t do that because thelocal version uses other board indexes and so bushes andstones will look strange if you play together with Zelda Onlineplayers.        There may be performance problems.        With the Zelda online local version you can directly playthe levels edited with the Zelda level editor.        The Java sources are included to this package. In the “programming”subfolder there are some additional files for programming .  ",
+            "content_html": "<p>This is the Zelda Online local version. It’s written in Java.Send comments to Stefan Knorr: knorr@informatik.uni-rostock.deSome notes:</p><ol>  <li>    <p>If you want to enable the multiplayer mode, then youhave to start the game server. It’s files are in the subfolder“server”. It can be started with “start.bat” (if you have the JavaJDK) or with “iestart.bat” (if you have the Internet Explorer).</p>  </li>  <li>    <p>The game files are in the subfolder “game”. Start the Zeldalocal version with “start.bat” (if you have the Java JDK) or“iestart.bat” (if you have Internet Explorer). If you want tojoin a game party, then select “multiplayer mode” and typein the server machine address. Type in “127.0.0.1” whenthe server runs on the same machine where the Zelda gameis started.</p>  </li>  <li>    <p>You can also connect to the Zelda Online server at204.85.8.128, but you shoudn’t do that because thelocal version uses other board indexes and so bushes andstones will look strange if you play together with Zelda Onlineplayers.</p>  </li>  <li>    <p>There may be performance problems.</p>  </li>  <li>    <p>With the Zelda online local version you can directly playthe levels edited with the Zelda level editor.</p>  </li>  <li>    <p>The Java sources are included to this package. In the “programming”subfolder there are some additional files for programming .</p>  </li></ol>",
+            "url": "http://192.168.20.33:4000/1998/07/27/zeldaonline2",
+            
+            
+            
+            
+            
+            "date_published": "1998-07-27T00:00:00+10:00",
+            "date_modified": "1998-07-27T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/1998/05/17/zeldaonline1",
+            "title": "ZeldaOnline Java (1st Release)",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://192.168.20.33:4000/1998/05/17/zeldaonline1",
+            
+            
+            
+            
+            
+            "date_published": "1998-05-17T00:00:00+10:00",
+            "date_modified": "1998-05-17T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://192.168.20.33:4000/1998/01/01/unlgserv119",
+            "title": "Unlimited Gserver 1.1.9 (Win32 Bin)",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://192.168.20.33:4000/1998/01/01/unlgserv119",
+            
+            
+            
+            
+            
+            "date_published": "1998-01-01T00:00:00+11:00",
+            "date_modified": "1998-01-01T00:00:00+11:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        }
+    
+    ]
+}

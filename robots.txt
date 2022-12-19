@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://192.168.20.33:4000/sitemap.xml
