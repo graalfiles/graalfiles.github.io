@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sidey",
+    "title": "Graal Files",
     "home_page_url": "http://192.168.20.33:4000/",
     "feed_url": "http://192.168.20.33:4000/feed.json",
-    "description": "Simple and minimalistic jekyll blogging theme.",
+    "description": "Archive of the Internet's Past!",
     "icon": "http://192.168.20.33:4000/apple-touch-icon.png",
     "favicon": "http://192.168.20.33:4000/favicon.ico",
     "expired": false,
